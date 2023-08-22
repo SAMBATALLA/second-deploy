@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/second-deploy.git/static/css/main.c6be2c20.css",
+    "main.js": "/second-deploy.git/static/js/main.35397167.js",
+    "static/js/787.3def951a.chunk.js": "/second-deploy.git/static/js/787.3def951a.chunk.js",
+    "static/media/image.jpeg": "/second-deploy.git/static/media/image.834ff5c3e77cdc0fb062.jpeg",
+    "static/media/footer.jpeg": "/second-deploy.git/static/media/footer.08ca0940db72cdb6ea27.jpeg",
+    "index.html": "/second-deploy.git/index.html",
+    "main.c6be2c20.css.map": "/second-deploy.git/static/css/main.c6be2c20.css.map",
+    "main.35397167.js.map": "/second-deploy.git/static/js/main.35397167.js.map",
+    "787.3def951a.chunk.js.map": "/second-deploy.git/static/js/787.3def951a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6be2c20.css",
+    "static/js/main.35397167.js"
+  ]
+}
